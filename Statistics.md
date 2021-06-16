@@ -4,8 +4,6 @@ Statistics - Sciense of collecting ,organizing and analysing data
   	1. Descriptive - Ask about the data
     	2. Inferential - Measure or form conclusion from the data 
 
-
-
 - Data is from Either population or Samples,
 
   1. Population is the Group  Generally Size is represented as N
